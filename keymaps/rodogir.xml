@@ -68,20 +68,33 @@
   <action id=":cursive.actions.paredit/wrap-square">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id=":cursive.repl.actions/execute-immediately">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id=":cursive.repl.actions/load-file">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
-  <action id=":cursive.repl.actions/run-top-sexp">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
   <action id=":cursive.repl.actions/search-history">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id=":cursive.repl.actions/switch-namespace">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id=":cursive.repl.actions/sync-files">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
+  <action id=":cursive.testing.actions/rerun-last-test">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
