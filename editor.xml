@@ -19,13 +19,13 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
-    <filter name="GRAPH">
-      <pattern index="2" />
+    <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="\btodo\b V2.*">
+      <option name="FOREGROUND" value="a8c023" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <filter name="V2">
+      <pattern index="3" />
     </filter>
-    <filter name="GRAPH RO">
-      <pattern index="2" />
-    </filter>
-    <filter name="GROUP" />
-    <filter name="SHOP" />
   </component>
 </application>
