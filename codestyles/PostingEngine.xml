@@ -3,6 +3,7 @@
   <option name="RIGHT_MARGIN" value="160" />
   <ClojureCodeStyleSettings>{
   :ch.deepimpact.bellboy.stages.executor/defstage :only-indent
+  :cursive.formatting/align-binding-forms true
 }</ClojureCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
