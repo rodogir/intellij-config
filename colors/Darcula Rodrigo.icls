@@ -1,8 +1,16 @@
 <scheme name="Darcula Rodrigo" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_SIZE" value="48" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
+    <option name="Clojure Keyword">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="DEFAULT_CLASS_REFERENCE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -44,7 +52,12 @@
     </option>
     <option name="Rainbow Parens Level 2">
       <value>
-        <option name="FOREGROUND" value="ff5042" />
+        <option name="FOREGROUND" value="ffa630" />
+      </value>
+    </option>
+    <option name="Rainbow Parens Level 3">
+      <value>
+        <option name="FOREGROUND" value="90ffbe" />
       </value>
     </option>
     <option name="Rainbow Parens Level 4">
@@ -54,10 +67,9 @@
     </option>
     <option name="Rainbow Parens Level 7">
       <value>
-        <option name="FOREGROUND" value="3e70ff" />
+        <option name="FOREGROUND" value="39abff" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
