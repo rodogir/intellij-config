@@ -5,14 +5,16 @@
   </component>
   <component name="TodoConfiguration">
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\btodo\b.*">
-      <option name="FOREGROUND" value="73bf" />
-      <option name="FONT_TYPE" value="3" />
+      <option name="FOREGROUND" value="268bd2" />
+      <option name="EFFECT_COLOR" value="808080" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="73bf" />
-      <option name="FONT_TYPE" value="3" />
+      <option name="FOREGROUND" value="268bd2" />
+      <option name="EFFECT_COLOR" value="808080" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <pattern icon="important" useCustomColors="true" case-sensitive="false" pattern="\btodo\b placeholder*">
       <option name="FOREGROUND" value="c01446" />
@@ -20,9 +22,10 @@
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
     <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="\btodo\b V2.*">
-      <option name="FOREGROUND" value="73bf" />
-      <option name="FONT_TYPE" value="3" />
+      <option name="FOREGROUND" value="268bd2" />
+      <option name="EFFECT_COLOR" value="808080" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      <option name="EFFECT_TYPE" value="5" />
     </pattern>
     <filter name="V2">
       <pattern index="3" />
