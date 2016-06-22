@@ -3,4 +3,7 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="180" />
+  </codeStyleSettings>
 </code_scheme>
