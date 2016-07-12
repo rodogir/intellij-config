@@ -1,5 +1,8 @@
 <code_scheme name="Rodogir">
   <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body" />
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/align-binding-forms true
+}</ClojureCodeStyleSettings>
   <CssCodeStyleSettings>
     <option name="KEEP_SINGLE_LINE_BLOCKS" value="true" />
   </CssCodeStyleSettings>
