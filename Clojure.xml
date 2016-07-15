@@ -3,5 +3,6 @@
     <option name="coloredParentheses" value="true" />
     <option name="replHistorySize" value="1000" />
     <option name="useStructuralEditing" value="false" />
+    <option name="structuralStyle" value="0" />
   </component>
 </application>
