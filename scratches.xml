@@ -21,6 +21,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.clj" value="Clojure" />
@@ -33,5 +34,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.clj" value="Clojure" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js" value="JavaScript" />
   </component>
 </application>
