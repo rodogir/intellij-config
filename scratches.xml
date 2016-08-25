@@ -1,5 +1,6 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" value="ECMAScript 6" />
@@ -34,6 +35,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" value="JavaScript" />
