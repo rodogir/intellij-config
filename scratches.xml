@@ -15,6 +15,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" value="MySQL" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.clj" value="Clojure" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" value="JavaScript" />
