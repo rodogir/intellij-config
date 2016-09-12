@@ -1,54 +1,8 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/buffer1" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.es6" value="ECMAScript 6" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" value="MySQL" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.sql" value="MySQL" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5" value="Apple JS" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.clj" value="Clojure" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js" value="JavaScript" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.js" value="JavaScript 1.8" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" value="JSON" />
   </component>
 </application>
