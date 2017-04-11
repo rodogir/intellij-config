@@ -1,5 +1,4 @@
 <application>
-  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -50,34 +49,6 @@
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
             </list>
           </option>
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="ChangesView">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="CommitDialog">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Default">
-        <PlaceSettings>
-          <option name="EXPAND_BY_DEFAULT" value="false" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings />
-      </entry>
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
     </option>
